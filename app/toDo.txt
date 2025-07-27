@@ -1,0 +1,8 @@
+Night/Day-app
+
+This app changes from Night mode to Day mode when shaken.
+This means switching from a Sun to a Moon.
+
+And when the phone is moved to the side - the Moon or
+the Sun image rotates.
+
